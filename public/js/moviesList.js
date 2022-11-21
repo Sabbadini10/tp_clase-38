@@ -3,6 +3,7 @@ window.onload = function(){
     let moviesListTitulo = document.querySelector('.moviesListTitulo');
     let enlaces = document.querySelectorAll('a')
 
+
     /* let modo = confirm('Desea modo oscuro');
     if(modo){
         body.style.backgroundColor = '#7f7f7f'
